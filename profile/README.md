@@ -1,6 +1,4 @@
-# NearLunar - Pushing the Boundaries of Software Solutions
-
-[![NearLunar Logo](https://your-website.com/logo.png)](https://nearlunar.com)
+[![NearLunar Logo](https://raw.githubusercontent.com/NearLunar/.github/main/profile/LinkedIn-Post%20%E2%80%93%206.jpg)](https://nearlunar.com)
 
 Welcome to the NearLunar GitHub page! 🚀 Here, we showcase our relentless pursuit of excellence in software development and our commitment to delivering "out-of-this-world" solutions.
 
